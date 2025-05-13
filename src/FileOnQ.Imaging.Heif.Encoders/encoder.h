@@ -29,7 +29,7 @@
 #include <string>
 #include <memory>
 
-#include <libheif/heif.h>
+#include <libheif/api/heif.h>
 
 
 class Encoder
